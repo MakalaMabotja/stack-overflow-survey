@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#Files
+/ml-app-salaryprediction
+/stack overflow surveys
+/.vscode
+
 # C extensions
 *.so
 
